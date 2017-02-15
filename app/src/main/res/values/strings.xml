@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Llançador</string>
+    <string name="navegador">Navegador</string>
+    <string name="camera">Càmera</string>
+    <string name="telf">Telèfon</string>
+    <string name="msg">Missatge</string>
+</resources>
